@@ -10,6 +10,8 @@ MyProject!
 Для перехода http://localhost:8097/books
 port 8097 по умолчанию 
 
+Swagger - http://localhost:8080/swagger-ui.html
+
 Для проверки создания и удаления книг использовалось приложение "Postman" .Get -посмотреть книги,Post -создание новой книги,Del - удаление.
 
 Пример создания - { "id": 4, "title": "Buterfly", "cost": 2.2 }
