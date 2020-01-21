@@ -7,7 +7,7 @@ MyProject!
 
 Запуск приложения в IntelliJ IDea -SiteScraperApp.
 
-Для перехода http://localhost:8097/books
+Для перехода http://localhost:8080/books
 port 8097 по умолчанию 
 
 Swagger - http://localhost:8080/swagger-ui.html
